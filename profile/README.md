@@ -6,4 +6,4 @@ We're experts in WordPress websites using inspirational design, innovative techn
 
 _____
 
-Find us on [Twitter](https://twitter.com/indigotreesays?lang=en) or [Linkedin](https://www.linkedin.com/company/indigo-tree-digital-ltd/).
+Find us on [Twitter](https://twitter.com/indigotreesays?lang=en) or [Linkedin](https://www.linkedin.com/company/indigo-tree-digital-ltd/), or at [indigotree.co.uk](https://www.indigotree.co.uk)
