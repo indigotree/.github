@@ -1,4 +1,4 @@
-[<img width="720" src="https://github.com/indigotree/.github/blob/2dddc75eb4fb7c11b866ad4acff3eec6c29d0973/profile/logo1.png?raw=true" alt="">](https://www.indigotree.co.uk)
+[<img width="720" height="405" src="https://github.com/indigotree/.github/blob/2dddc75eb4fb7c11b866ad4acff3eec6c29d0973/profile/logo1.png?raw=true" alt="">](https://www.indigotree.co.uk)
 
 # Hello, we're Indigo Tree!
 
